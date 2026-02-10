@@ -1,0 +1,24 @@
+profile {
+	output "Lenovo Group Limited P40w-20 V909507G" mode 5120x2160 position 0,0 scale 1.6
+	output "ASUSTek COMPUTER INC ASUS MB14AHD S6LMTF011157" mode 1920x1080 position 2200,1350 scale 1.2
+}
+
+profile {
+	output "Lenovo Group Limited P40w-20 V909507G" mode 5120x2160 position 0,0 scale 1.6
+}
+
+profile {
+	output eDP-1 enable scale 1.2
+}
+
+profile {
+  output eDP-1 disable
+	output "Lenovo Group Limited P40w-20 V909507G" mode 5120x2160 position 0,0 scale 1.6
+	output "ASUSTek COMPUTER INC ASUS MB14AHD S6LMTF011157" mode 1920x1080 position 2200,1350 scale 1.2
+}
+
+profile {
+  output eDP-1 position 2200,1350 scale 1.2
+	output "Lenovo Group Limited P40w-20 V909507G" mode 5120x2160 position 0,0 scale 1.6
+}
+
