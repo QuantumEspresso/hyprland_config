@@ -17,9 +17,9 @@ local profiles = {
 
         monitors = {
             {
-                desc = "InfoVision Optoelectronics (Kunshan) Co.Ltd China 0x057D",
+                desc = "ASUSTek COMPUTER INC ASUS MB14AHD S6LMTF011157",
                 mode = "1920x1080@60.01000",
-                position = "2200x1350",
+                position = "2800x1350",
                 scale = 1.2,
             },
 
@@ -46,7 +46,7 @@ local profiles = {
             {
                 desc = "ASUSTek COMPUTER INC ASUS MB14AHD S6LMTF011157",
                 mode = "1920x1080@60.01000",
-                position = "5200x400",
+                position = "2800x1350",
                 scale = 1.2,
             },
 
