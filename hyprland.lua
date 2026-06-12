@@ -16,4 +16,3 @@ require("config.keybinding")
 
 -- Animations
 require("config.animation")
-

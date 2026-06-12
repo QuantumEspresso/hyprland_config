@@ -51,22 +51,22 @@ end
 local dropdowns = {
     term = {
         key = "ALT + T",
-        cmd = "alacritty --class dropdown-term",
+        cmd = "alacritty",
     },
 
     music = {
         key = "ALT + M",
-        cmd = "alacritty --class dropdown-music -e cmus",
+        cmd = "alacritty",
     },
 
     lynx = {
         key = "ALT + B",
-        cmd = "alacritty --class dropdown-lynx -e lynx",
+        cmd = "alacritty",
     },
 
     calendar = {
         key = "ALT + C",
-        cmd = "alacritty --class dropdown-calendar -e khal interactive",
+        cmd = "alacritty -e khal interactive",
     },
 
     signal = {
@@ -75,15 +75,15 @@ local dropdowns = {
     },
     discord = {
         key = "ALT + D",
-        cmd = "discord --class dropdown-discord",
+        cmd = "discord",
     },
     btop = {
         key = "ALT + Y",
-        cmd = "alacritty --class dropdown-btop -e btop",
+        cmd = "alacritty -e btop",
     },
     nvtop = {
         key = "ALT + N",
-        cmd = "alacritty --class dropdown-btop -e nvtop",
+        cmd = "alacritty -e nvtop",
     },
 }
 
