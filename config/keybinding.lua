@@ -130,5 +130,8 @@ bind("ALT + C", hl.dsp.exec_cmd("~/.config/hypr/scripts/dropdown-term.sh calenda
 bind("ALT + S", hl.dsp.exec_cmd("~/.config/hypr/scripts/dropdown-term.sh signal"))
 bind("ALT + D", hl.dsp.exec_cmd("~/.config/hypr/scripts/dropdown-term.sh discord"))
 
+-- quickshell
+bind("ALT + Q", hl.dsp.exec_cmd("quickshell"))
+
 -- opacity
 bind("ALT + O", hl.dsp.exec_cmd("~/.config/hypr/scripts/toggle_opacity.sh"))
